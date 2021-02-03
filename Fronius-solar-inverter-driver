@@ -12,8 +12,9 @@
  *  on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License
  *  for the specific language governing permissions and limitations under the License.
  *
- *  EDITED by jchurch and sgrayban to include runEvery15Minutes(refresh). 
- *  EDITED by jchurch and Markus to include ErrorCode information and clean up ported code for Hubitat slightly.
+ *  EDITED by jchurch to include runEvery15Minutes(refresh) - 02/20
+ *  EDITED by jchurch and Markus to include ErrorCode information and clean up ported code for Hubitat slightly - 02/20
+ *  EDITED by jchurch and Markus to include kWh conversation for energy stat - 02/21
  */
  
 import groovy.json.JsonSlurper
