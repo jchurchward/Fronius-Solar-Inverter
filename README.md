@@ -5,4 +5,5 @@ This driver was ported from Samsung Smartthings and originally created by a deve
 How to use this driver:
 
 Inverter Number: 1 (assuming you have a single inverter)
+
 Port: 80
